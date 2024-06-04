@@ -9,3 +9,4 @@ public class Fitnessgeräte
     public DateTime Anschaffungsdatum { get; set; }
      
 }
+
